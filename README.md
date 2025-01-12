@@ -6,7 +6,7 @@ I’m a data science professional with a background in economics and a passion f
 
 - 🔧 Skills: Python, SQL, Tableau, Power BI, Machine Learning, Data Visualization
 - 📂 What I do: I create data-driven solutions, build machine learning models, and explore the intersection of technology and analytics.
-- 🎯 Current Role: Credit Operations Officer, leveraging data to optimize financial processes.
+- 🎯 Current Role: Credit Operations Officer at a major Greek bank.
 - 🌱 Learning: Always exploring new technologies, with a focus on deep learning and natural language processing.
 
 ## 📬 Feel free to explore my projects and connect with me to discuss all things data science!
